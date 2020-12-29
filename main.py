@@ -1,3 +1,5 @@
+# Basic tutorial from Xanadu AI: https://pennylane.ai/qml/demos/tutorial_qubit_rotation.html
+
 import pennylane as qml
 from pennylane import numpy as np # it is important to import numpy provided by pennylane
 
